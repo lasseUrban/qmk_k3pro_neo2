@@ -1,1 +1,1 @@
-# This file intentionally blank
+CONSOLE_ENABLE = yes
